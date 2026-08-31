@@ -4,15 +4,6 @@ Device- &amp; Cybersecurity is not a choice anymore, it is a dangerous time to b
 </p>
 -->
 
-<img src="./freebsd-advert.gif"
-  alt="freebsd"
-  width="200"
-  style="animation: spin 4s linear infinite; display: block; margin: 0 auto;
-  @keyframes spin{
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-    }
-  "/>
-
+<img src="https://s7.ezgif.com/tmp/ezgif-7acb052eb0d4d93d.gif"/>
 
   
