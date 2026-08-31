@@ -8,10 +8,6 @@ Device- &amp; Cybersecurity is not a choice anymore, it is a dangerous time to b
   alt="freebsd"
   width="200"
   style="animation: spin 4s linear infinite; display: block; margin: 0 auto;
-  @keyframes spin{
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-    }
   "/>
 
 
