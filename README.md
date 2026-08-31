@@ -4,7 +4,7 @@ Device- &amp; Cybersecurity is not a choice anymore, it is a dangerous time to b
 
 
 <div align="center">
-  <img src="https://www.freebsd.org/gifs/freebsd-advert.gif" 
+  <img src="./freebsd-advert.gif" 
        alt="FreeBSD Logo" 
        width="200" 
        style="animation: spin 4s linear infinite; display: block; margin: 0 auto;" />
